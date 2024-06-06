@@ -59,3 +59,7 @@
     }
   }
     
+
+  .add__content__bg{
+    backdrop-filter: blur(10px);
+  }
